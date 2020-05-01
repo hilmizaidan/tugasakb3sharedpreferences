@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TugasAKB3 Shared Preferences</string>
+
+    <string name="login_txt_ngasuh">NGASUH</string>
+    <string name="login_txt_ngasuh_desc">Siap Menjadi Orangtua Muda</string>
+    <string name="login_txt_login">Login</string>
+    <string name="login_edt_txt_username">Username</string>
+    <string name="login_edt_txt_password">Password</string>
+    <string name="login_txt_forgotpass">Lupa Password</string>
+    <string name="login_btn_masuk">Masuk</string>
+    <string name="login_txt_daftar">Belum Punya Akun? Yuk Daftar</string>
+
+    <string name="reg_txt_ngasuh">NGASUH</string>
+    <string name="reg_txt_ngasuh_desc">Siap Menjadi Orangtua Muda</string>
+    <string name="reg_txt_daftar">Daftar</string>
+    <string name="reg_edt_txt_username">Username</string>
+    <string name="reg_edt_txt_password">Password</string>
+    <string name="reg_edt_txt_confirmpass">Confirm Password</string>
+    <string name="reg_edt_txt_phone">Nomor Telepon</string>
+    <string name="reg_txt_forgotpass">Lupa Password</string>
+    <string name="reg_btn_daftar">Daftar</string>
+
+    <string name="home_txt_ngasuh">NGASUH</string>
+    <string name="home_txt_siap">Siap Menjadi Orangtua Muda</string>
+    <string name="home_txt_hallo">Hallo</string>
+    <string name="home_txt_nama">Nama User</string>
+    <string name="home_txt_logout">Logout</string>
+
+
+    <string name="desc">Ini merupakan gambar kereta bayi</string>
+
+    <string name="_24">24</string>
+</resources>
